@@ -3,7 +3,6 @@
 
 An interactive web application that generates descriptive captions for uploaded images using state-of-the-art AI models. 
 
----
 ## Features
 
 - **Image Upload**: Upload images via drag-and-drop or file selection.
@@ -14,8 +13,6 @@ An interactive web application that generates descriptive captions for uploaded 
 - **Social Sharing**: Share images and captions on Facebook and Twitter.
 - **Loading Indicators**: Visual feedback during caption generation.
 - **Error Handling**: User-friendly error messages and validation.
-
----
 
 ## Getting Started
 
@@ -85,8 +82,6 @@ cd image-captioning-app
    ```
 
    The frontend will open in your browser at `http://localhost:3000`.
-
----
 
 ## Usage
 
